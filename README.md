@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ````
 
-make sure to add and env.js file containing the api key as follows
+make sure to add an env.js file in all the project folder's file tree containing the api key as follows
 ```
 export const process = {
     env: {
