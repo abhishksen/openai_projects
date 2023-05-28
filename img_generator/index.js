@@ -1,5 +1,5 @@
 import { Configuration, OpenAIApi } from "openai";
-import { process } from '../env.js';
+import { process } from './env';
 
 const outputImg = document.getElementById('output-img')
 
